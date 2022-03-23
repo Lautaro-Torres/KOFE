@@ -1,13 +1,5 @@
-E-commerce for a fictional Coffe Brand developed in a group of 4 web developers.
- 
+E-Commerce for a fictional Coffe Brand developed by a group of 4 web developers.
 
-Tecnologies:
+Technologies:
 
-• React
-• PSQL
-• Redux
-• Tailwind
-• Sequelize 
-• Express
-• Node.js
-• Nodemailer
+• React • PSQL • Redux • Tailwind • sequels • Express • Node.js • Nodemailer
