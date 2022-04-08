@@ -28,4 +28,8 @@ Allows you to see the front of the project, with any connection with the db (not
 
 
 <img src="https://i.imgur.com/BNzEZe0.png" width="300">
-
+<img src="https://i.imgur.com/lIJOJQG.png" width="300">
+<img src="https://i.imgur.com/jrbKuCU.png" width="300">
+<img src="https://i.imgur.com/CpMnhdP.png" width="300">
+<img src="https://i.imgur.com/nKRi256.png" width="300">
+<img src="https://i.imgur.com/AnP9718.png" width="300">
