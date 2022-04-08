@@ -27,4 +27,4 @@ You will also see any lint errors in the console.
 Allows you to see the front of the project, with any connection with the db (not recommended).
 
 
-![cover](https://i.imgur.com/urqJ74Z.jpg)
+[Imgur](https://i.imgur.com/BNzEZe0.png)
