@@ -27,8 +27,8 @@ You will also see any lint errors in the console.
 Allows you to see the front of the project, with any connection with the db (not recommended).
 
 <p float="left">
-<img src="public/preVisual/Captura%20de%20pantalla_2022-01-18_15-23-17.png" width ="400" height = "190" >
-<img src="public/preVisual/Captura%20de%20pantalla_2022-01-18_15-24-27.png" width ="400" height = "190" >
+![cover](https://i.imgur.com/urqJ74Z.jpg)
+
 </p>
 
 <p float="left">
